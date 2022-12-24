@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohammed Hassan</h1>
-<h3 align="center">Computer and information student department computer science. I'm working at Epsilon AI as data science intern. I'm interested in data science and machine learning.</h3>
+<h3 align="center">Proven Data Science Professional with impeccable knowledge initiating applications with Artificial Intelligence, Machine Learning, Deep Learning and Convolutional Neural Network.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m0hammed-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="m0hammed-hassan" /> </p>
 
